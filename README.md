@@ -1,2 +1,2 @@
-# IQ-grid
-IQ grid | simple grid word match game
+# Word Grid Game
+Word Grid Game| simple grid word match game
